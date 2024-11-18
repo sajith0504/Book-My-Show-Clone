@@ -1,0 +1,28 @@
+
+.pay_mai-box{
+display: flex;
+justify-content: center;
+align-items: center;
+}
+ 
+.pay-sub-box{
+    width: 40%;
+    /* border: 2px solid black; */
+
+}
+@media screen and (min-width: 0px) and (max-width: 427px){
+    .pay-sub-box{
+        width: 90%;
+        /* border: 2px solid black; */
+    
+    }
+  }
+
+  @media screen and (min-width:428px) and (max-width: 768px){
+
+    .pay-sub-box{
+        width: 70%;
+        /* border: 2px solid black; */
+    
+    }
+  }

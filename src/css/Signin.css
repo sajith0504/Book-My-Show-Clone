@@ -1,0 +1,92 @@
+*{
+    padding: 0px;
+    margin: 0px;
+  }
+.sign_mainbox{
+    width: 100%;
+    height: 100vh;
+    background-color: rgb(208, 236, 236);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* background-image: url(./image/movie.jpg) ; */
+    position: relative;
+}
+.sign_centerbox{
+ width: 25%;
+ height: 520px;
+border: rgb(95, 92, 92) solid;
+position: absolute;
+z-index: 3;
+background: rgb(237,23,84);
+background: linear-gradient(309deg, rgba(237,23,84,1) 33%, rgba(253,122,11,1) 91%, rgba(255,137,0,1) 100%);
+}
+.sign_boxhead{
+    width: 100%;
+    height: 70px;
+  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.sign_logobox{
+    width: 100%;
+    height: 100px;
+   
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.sign_logo{
+    width: 28%;
+    height: 100px;
+   background-color:  rgb(243, 172, 18);
+    border-radius: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.sign_inputcontainer{
+    width: 100%;
+    height: 295px;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    justify-content: end;
+    align-items: center;
+   
+}
+.sign_input{
+    width: 80%;
+    padding: 10px;
+    border-radius: 30px;
+}
+.sign_button{
+    width: 35%;
+    height: 45px;
+    border-radius: 30px;
+    background-color: rgb(229, 204, 20);
+    transition: 1s;
+    border: none;
+  
+}
+.sign_button:hover{
+    width: 35%;
+    height: 45px;
+
+    background-color: rgb(27, 65, 84);
+    color: white;
+
+}
+.sign_footer{
+    height: 50px;
+    width: 100%;
+   
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+@media screen and (min-width: 0px) and (max-width: 427px){}
+
+@media screen and (min-width:428px) and (max-width: 768px){}

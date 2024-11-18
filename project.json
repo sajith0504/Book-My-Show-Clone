@@ -1,0 +1,1361 @@
+{
+  "regester": [
+    {
+      "id": "19df",
+      "name": "sajith",
+      "pass": "love",
+      "email": "sajithys1881@gmail.com"
+    },
+    {
+      "id": "6ca7",
+      "name": "krish",
+      "pass": "makan ",
+      "email": "saji123@gmail.com"
+    },
+    {
+      "id": "f8e2",
+      "name": "sajith",
+      "pass": "love",
+      "email": ""
+    },
+    {
+      "id": "221b",
+      "name": "partha",
+      "pass": "sarathi",
+      "email": "saji123@gmail.com"
+    },
+    {
+      "id": "d885",
+      "name": "beaula",
+      "pass": "jency",
+      "email": "sajithys1881@gmail.com"
+    },
+    {
+      "id": "3589",
+      "name": "sharwin",
+      "pass": "sharwin",
+      "email": "sharwin12@gmail.com"
+    },
+    {
+      "id": "08e9",
+      "name": "beaulajency",
+      "pass": "0504",
+      "email": "beaulajency@gmail.com"
+    }
+  ],
+  "movies": [
+    {
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-image,i-discovery-catalog@@icons@@star-icon-202203010609.png,lx-24,ly-615,w-29,l-end:l-text,ie-OC44LzEwICA1NTcuM0sgVm90ZXM%3D,fs-29,co-FFFFFF,ly-612,lx-70,pa-8_0_0_0,l-end/et00352941-qdafpgypxr-portrait.jpg",
+      "movieName": "Kalki  2898 AD",
+      "type": [
+        "Action",
+        "sci-fi",
+        "Thriller"
+      ],
+      "langauge": [
+        "Telugu",
+        "Kannada",
+        "Malayalam",
+        "Hindi",
+        "Tamil"
+      ],
+      "certification": "UA",
+      "releseDate": "27 Jun, 2024",
+      "id": "1",
+      "rating": "8.7/10",
+      "vote": "591k votes",
+      "theater": [
+        "AMC Theater",
+        "Regal Cinemas",
+        "Cineplex Odeon",
+        "Cinemark Theatres",
+        "partha theater"
+      ],
+      "time": [
+        "8:00 am",
+        "11:45 am",
+        "3:00 pm",
+        "6:30 pm",
+        "9:45 pm"
+      ]
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJEGZZtMnqsxQ4iXHD1DW0yTCCHg44TmLJAg&s",
+      "movieName": "Dispicable Me",
+      "type": [
+        "Action",
+        "Animation",
+        "Comedy"
+      ],
+      "langauge": [
+        "English",
+        "Telugu",
+        "Hindi",
+        "Tamil"
+      ],
+      "certification": "U",
+      "releseDate": "5 Jul, 2024",
+      "id": "2",
+      "rating": "8.3/10",
+      "vote": "5k votes",
+      "theater": [
+        "AMC Theater",
+        "Regal Cinemas",
+        "Cineplex Odeon",
+        "Cinemark Theatres",
+        "partha theater"
+      ],
+      "time": [
+        "8:00am",
+        "11:45 am",
+        "3:00 pm",
+        "6:30 pm",
+        "9:45 pm"
+      ]
+    },
+    {
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-image,i-discovery-catalog@@icons@@star-icon-202203010609.png,lx-24,ly-615,w-29,l-end:l-text,ie-OC44LzEwICAxMS44SyBWb3Rlcw%3D%3D,fs-29,co-FFFFFF,ly-612,lx-70,pa-8_0_0_0,l-end/et00374797-kqytbtqgwb-portrait.jpg",
+      "movieName": "Kill",
+      "type": [
+        "Action"
+      ],
+      "langauge": [
+        "English ",
+        "Telugu",
+        "Hindi",
+        "Tamil"
+      ],
+      "certification": "A",
+      "releseDate": "5 Jul, 2024",
+      "id": "3",
+      "rating": "8.9/10",
+      "vote": "17.4k votes",
+      "theater": [
+        "AMC Theater",
+        "Regal Cinemas",
+        "Cineplex Odeon",
+        "Cinemark Theatres",
+        "partha theater"
+      ],
+      "time": [
+        "8:00 am",
+        "11:45 am",
+        "3:00 pm",
+        "6:30 pm",
+        "9:45 pm"
+      ]
+    },
+    {
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-image,i-discovery-catalog@@icons@@star-icon-202203010609.png,lx-24,ly-615,w-29,l-end:l-text,ie-OS4yLzEwICAyNi40SyBWb3Rlcw%3D%3D,fs-29,co-FFFFFF,ly-612,lx-70,pa-8_0_0_0,l-end/et00384010-ztzeumakky-portrait.jpg",
+      "movieName": "Inside Out 2",
+      "type": [
+        "Animation",
+        "Comedy"
+      ],
+      "langauge": [
+        "Telugu",
+        "Kannada",
+        "Malayalam",
+        "Hindi",
+        "Tamil"
+      ],
+      "certification": "U",
+      "releseDate": "14 Jun, 2024",
+      "id": "4",
+      "rating": "9.2/10",
+      "vote": "27.4k votes",
+      "theater": [
+        "AMC Theater",
+        "Regal Cinemas",
+        "Cineplex Odeon",
+        "Cinemark Theatres",
+        "partha theater"
+      ],
+      "time": [
+        "8:00 am",
+        "11:45 am",
+        "3:00 pm",
+        "6:30 pm",
+        "9:45 pm"
+      ]
+    },
+    {
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-image,i-discovery-catalog@@icons@@star-icon-202203010609.png,lx-24,ly-615,w-29,l-end:l-text,ie-OS40LzEwICA5OC42SyBWb3Rlcw%3D%3D,fs-29,co-FFFFFF,ly-612,lx-70,pa-8_0_0_0,l-end/et00399737-favrstsfcq-portrait.jpg",
+      "movieName": "Maharaja",
+      "type": [
+        "Action",
+        "Drama"
+      ],
+      "langauge": [
+        " Tamil",
+        "Telugu"
+      ],
+      "certification": "UA",
+      "releseDate": "14 Jun, 2024",
+      "id": "6",
+      "rating": "9.4/10",
+      "vote": "99.8k votes",
+      "theater": [
+        "AMC Theater",
+        "Regal Cinemas",
+        "Cineplex Odeon",
+        "Cinemark Theatres",
+        "partha theater"
+      ],
+      "time": [
+        "8:00 am",
+        "11:45 am",
+        "3:00 pm",
+        "6:30 pm",
+        "9:45 pm"
+      ]
+    },
+    {
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-image,i-discovery-catalog@@icons@@star-icon-202203010609.png,lx-24,ly-615,w-29,l-end:l-text,ie-Ni40LzEwICA0LjhLIFZvdGVz,fs-29,co-FFFFFF,ly-612,lx-70,pa-8_0_0_0,l-end/et00390813-gexewexzur-portrait.jpg",
+      "movieName": " A Quiet Place - Day One",
+      "type": [
+        "Horror",
+        "Thriller"
+      ],
+      "langauge": [
+        "English"
+      ],
+      "certification": "UA",
+      "releseDate": "28 Jun, 2024",
+      "id": "7",
+      "rating": "6.4/10",
+      "vote": "5.1k votes",
+      "theater": [
+        "AMC Theater",
+        "Regal Cinemas",
+        "Cineplex Odeon",
+        "Cinemark Theatres",
+        "partha theater"
+      ],
+      "time": [
+        "8:00 am",
+        "11:45 am",
+        "3:00 pm",
+        "6:30 pm",
+        "9:45 pm"
+      ]
+    },
+    {
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-image,i-discovery-catalog@@icons@@star-icon-202203010609.png,lx-24,ly-615,w-29,l-end:l-text,ie-OS4yLzEwICA2M0sgVm90ZXM%3D,fs-29,co-FFFFFF,ly-612,lx-70,pa-8_0_0_0,l-end/et00363650-tlyjxxawja-portrait.jpg",
+      "movieName": "Chandu Champion",
+      "type": [
+        "Biography",
+        "Drama",
+        "Sports"
+      ],
+      "langauge": [
+        "Hindi"
+      ],
+      "certification": "UA",
+      "releseDate": "14 Jun, 2024",
+      "id": "8",
+      "rating": "9.2/10",
+      "vote": "63.6k votes",
+      "theater": [
+        "AMC Theater",
+        "Regal Cinemas",
+        "Cineplex Odeon",
+        "Cinemark Theatres",
+        "partha theater"
+      ],
+      "time": [
+        "8:00 am",
+        "11:45 am",
+        "3:00 pm",
+        "6:30 pm",
+        "9:45 pm"
+      ]
+    },
+    {
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-image,i-discovery-catalog@@icons@@star-icon-202203010609.png,lx-24,ly-615,w-29,l-end:l-text,ie-OS43LzEwICA2MCBWb3Rlcw%3D%3D,fs-29,co-FFFFFF,ly-612,lx-70,pa-8_0_0_0,l-end/et00403116-xpunfcvgbb-portrait.jpg",
+      "movieName": "Jigar (Kannada)",
+      "type": [
+        "Action",
+        "Drama"
+      ],
+      "langauge": [
+        "Kannada"
+      ],
+      "certification": "UA",
+      "releseDate": "5 Jul, 2024",
+      "id": "9",
+      "rating": "9.7/10",
+      "vote": "60 votes",
+      "theater": [
+        "AMC Theater",
+        "Regal Cinemas",
+        "Cineplex Odeon",
+        "Cinemark Theatres",
+        "partha theater"
+      ],
+      "time": [
+        "8:00 am",
+        "11:45 am",
+        "3:00 pm",
+        "6:30 pm",
+        "9:45 pm"
+      ]
+    },
+    {
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-image,i-discovery-catalog@@icons@@star-icon-202203010609.png,lx-24,ly-615,w-29,l-end:l-text,ie-OC4yLzEwICA5MC45SyBWb3Rlcw%3D%3D,fs-29,co-FFFFFF,ly-612,lx-70,pa-8_0_0_0,l-end/et00398936-rmwsksawqv-portrait.jpg",
+      "movieName": "Munjya",
+      "type": [
+        "Comedy",
+        "Horror"
+      ],
+      "langauge": [
+        "Hindi"
+      ],
+      "certification": "UA",
+      "releseDate": "7 Jun, 2024",
+      "id": "10",
+      "rating": "8.2/10",
+      "vote": "90.9k votes",
+      "theater": [
+        "AMC Theater",
+        "Regal Cinemas",
+        "Cineplex Odeon",
+        "Cinemark Theatres",
+        "partha theater"
+      ],
+      "time": [
+        "8:00 am",
+        "11:45 am",
+        "3:00 pm",
+        "6:30 pm",
+        "9:45 pm"
+      ]
+    },
+    {
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-image,i-discovery-catalog@@icons@@star-icon-202203010609.png,lx-24,ly-615,w-29,l-end:l-text,ie-OS4yLzEwICAxLjVLIFZvdGVz,fs-29,co-FFFFFF,ly-612,lx-70,pa-8_0_0_0,l-end/et00361639-wxfntznnap-portrait.jpg",
+      "movieName": "Love Li",
+      "type": [
+        "Action",
+        "Romantic"
+      ],
+      "langauge": [
+        "Kannada"
+      ],
+      "certification": "UA",
+      "releseDate": "14 Jun, 2024",
+      "id": "11",
+      "rating": "9.2/10",
+      "vote": "1.5k votes",
+      "theater": [
+        "AMC Theater",
+        "Regal Cinemas",
+        "Cineplex Odeon",
+        "Cinemark Theatres",
+        "partha theater"
+      ],
+      "time": [
+        "8:00 am",
+        "11:45 am",
+        "3:00 pm",
+        "6:30 pm",
+        "9:45 pm"
+      ]
+    },
+    {
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-image,i-discovery-catalog@@icons@@star-icon-202203010609.png,lx-24,ly-615,w-29,l-end:l-text,ie-OS41LzEwICA5MSBWb3Rlcw%3D%3D,fs-29,co-FFFFFF,ly-612,lx-70,pa-8_0_0_0,l-end/et00383278-ygbtyamunm-portrait.jpg",
+      "movieName": "Kaagada",
+      "type": [
+        "Drama",
+        "Romantic"
+      ],
+      "langauge": [
+        "Kannada"
+      ],
+      "certification": "U",
+      "releseDate": "5 Jul, 2024",
+      "id": "12",
+      "rating": "9.5/10",
+      "vote": "91 votes",
+      "theater": [
+        "AMC Theater",
+        "Regal Cinemas",
+        "Cineplex Odeon",
+        "Cinemark Theatres",
+        "partha theater"
+      ],
+      "time": [
+        "8:00 am",
+        "11:45 am",
+        "3:00 pm",
+        "6:30 pm",
+        "9:45 pm"
+      ]
+    },
+    {
+      "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/7-g-et00403232-1719824679.jpg",
+      "movieName": "7/G",
+      "type": [
+        "Horror",
+        "Thriller"
+      ],
+      "langauge": [
+        "Tamil"
+      ],
+      "certification": "UA",
+      "releseDate": "5 Jul, 2024",
+      "id": "13",
+      "rating": "6.3/10",
+      "vote": "739 votes",
+      "theater": [
+        "AMC Theater",
+        "Regal Cinemas",
+        "Cineplex Odeon",
+        "Cinemark Theatres",
+        "partha theater"
+      ],
+      "time": [
+        "8:00 am",
+        "11:45 am",
+        "3:00 pm",
+        "6:30 pm",
+        "9:45 pm"
+      ]
+    },
+    {
+      "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/garudan-et00398974-1716363155.jpg",
+      "movieName": "Garudan",
+      "type": [
+        "Action",
+        "Drama"
+      ],
+      "langauge": [
+        "Tamil"
+      ],
+      "certification": "UA",
+      "releseDate": "31 May, 2024",
+      "id": "14",
+      "rating": "9/10",
+      "vote": "37k votes",
+      "theater": [
+        "AMC Theater",
+        "Regal Cinemas",
+        "Cineplex Odeon",
+        "Cinemark Theatres",
+        "partha theater"
+      ],
+      "time": [
+        "8:00 am",
+        "11:45 am",
+        "3:00 pm",
+        "6:30 pm",
+        "9:45 pm"
+      ]
+    },
+    {
+      "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/gaganachari-et00402053-1718793507.jpg",
+      "movieName": "Gaganachari",
+      "type": [
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "langauge": [
+        "Malayalam"
+      ],
+      "certification": "UA",
+      "releseDate": "21 Jun, 2024",
+      "id": "15",
+      "rating": "8.1/10",
+      "vote": "3.9k votes",
+      "theater": [
+        "AMC Theater",
+        "Regal Cinemas",
+        "Cineplex Odeon",
+        "Cinemark Theatres",
+        "partha theater"
+      ],
+      "time": [
+        "8:00 am",
+        "11:45 am",
+        "3:00 pm",
+        "6:30 pm",
+        "9:45 pm"
+      ]
+    },
+    {
+      "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/bad-boys-ride-or-die-et00383487-1719560098.jpg",
+      "movieName": "Bad Boys: Ride or Die",
+      "type": [
+        "  Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "langauge": [
+        "English",
+        "Telugu",
+        "Hindi",
+        "Tamil"
+      ],
+      "certification": "A",
+      "releseDate": "6 Jun, 2024",
+      "id": "16",
+      "rating": "8.6/10",
+      "vote": "19.9k votes",
+      "theater": [
+        "AMC Theater",
+        "Regal Cinemas",
+        "Cineplex Odeon",
+        "Cinemark Theatres",
+        "partha theater"
+      ],
+      "time": [
+        "8:00 am",
+        "11:45 am",
+        "3:00 pm",
+        "6:30 pm",
+        "9:45 pm"
+      ]
+    },
+    {
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-image,i-discovery-catalog@@icons@@star-icon-202203010609.png,lx-24,ly-615,w-29,l-end:l-text,ie-NC45LzEwICBFYXJseSBSYXRpbmdz,fs-29,co-FFFFFF,ly-612,lx-70,pa-8_0_0_0,l-end/et00403657-qlyvehqtbs-portrait.jpg",
+      "movieName": "Udhir @ Poomara Kathu",
+      "type": [
+        "Drama"
+      ],
+      "langauge": [
+        "Tamil"
+      ],
+      "certification": "U",
+      "releseDate": "5 Jul, 2024",
+      "id": "17",
+      "rating": "5.2/10",
+      "vote": "19.9k votes",
+      "theater": [
+        "AMC Theater",
+        "Regal Cinemas",
+        "Cineplex Odeon",
+        "Cinemark Theatres",
+        "partha theater"
+      ],
+      "time": [
+        "8:00 am",
+        "11:45 am",
+        "3:00 pm",
+        "6:30 pm",
+        "9:45 pm"
+      ]
+    },
+    {
+      "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/teenz-et00403931-1720421868.jpg",
+      "movieName": "Teenz",
+      "type": [
+        "Adventure",
+        "Drama",
+        "Thriller"
+      ],
+      "langauge": [
+        "Tamil"
+      ],
+      "certification": "UA",
+      "releseDate": "5 Jul, 2024",
+      "id": "18",
+      "rating": "8.6/10",
+      "vote": "19.9k votes",
+      "theater": [
+        "AMC Theater",
+        "Regal Cinemas",
+        "Cineplex Odeon",
+        "Cinemark Theatres",
+        "partha theater"
+      ],
+      "time": [
+        "8:00 am",
+        "11:45 am",
+        "3:00 pm",
+        "6:30 pm",
+        "9:45 pm"
+      ]
+    },
+    {
+      "image": "https://assets-in.bmscdn.com/iedb/movies/images/extra/vertical_logo/mobile/thumbnail/xxlarge/kung-fu-panda-4-et00379741-1714115977.jpg",
+      "movieName": "kung-fu-panda-4",
+      "type": [
+        "  Action",
+        "Adventure",
+        "Animation"
+      ],
+      "langauge": [
+        "English",
+        "Telugu",
+        "Hindi",
+        "Tamil"
+      ],
+      "certification": "u",
+      "releseDate": "15 Mar, 2024",
+      "id": "19",
+      "rating": "8.6/10",
+      "vote": "19.9k votes",
+      "theater": [
+        "AMC Theater",
+        "Regal Cinemas",
+        "Cineplex Odeon",
+        "Cinemark Theatres",
+        "partha theater"
+      ],
+      "time": [
+        "8:00 am",
+        "11:45 am",
+        "3:00 pm",
+        "6:30 pm",
+        "9:45 pm"
+      ]
+    },
+    {
+      "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/emagadhagan-et00402362-1719216733.jpg",
+      "movieName": "Emagadhagan",
+      "type": [
+        "Drama",
+        "Social"
+      ],
+      "langauge": [
+        "Tamil"
+      ],
+      "certification": "UA",
+      "releseDate": "5 Jul, 2024",
+      "id": "20",
+      "rating": "8.6/10",
+      "vote": "19.9k votes",
+      "theater": [
+        "AMC Theater",
+        "Regal Cinemas",
+        "Cineplex Odeon",
+        "Cinemark Theatres",
+        "partha theater"
+      ],
+      "time": [
+        "8:00 am",
+        "11:45 am",
+        "3:00 pm",
+        "6:30 pm",
+        "9:45 pm"
+      ]
+    },
+    {
+      "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/naanum-oru-azhagi-et00403262-1719835176.jpg",
+      "movieName": "Naanum Oru Azhagi",
+      "type": [
+        "Drama",
+        "Romantic"
+      ],
+      "langauge": [
+        "Tamil"
+      ],
+      "certification": "UA",
+      "releseDate": "5 Jul, 2024",
+      "id": "21",
+      "rating": "8.6/10",
+      "vote": "19.9k votes",
+      "theater": [
+        "AMC Theater",
+        "Regal Cinemas",
+        "Cineplex Odeon",
+        "Cinemark Theatres",
+        "partha theater"
+      ],
+      "time": [
+        "8:00 am",
+        "11:45 am",
+        "3:00 pm",
+        "6:30 pm",
+        "9:45 pm"
+      ]
+    }
+  ],
+  "schedules": [
+    {
+      "id": "18aa",
+      "date": "2024-08-05",
+      "theater": "AMC Theater",
+      "time": "8:00am",
+      "seats": [
+        89,
+        90,
+        54,
+        55,
+        90,
+        91,
+        59,
+        60,
+        193,
+        194,
+        129,
+        130
+      ]
+    },
+    {
+      "id": "4456",
+      "date": "2024-08-05",
+      "theater": "AMC Theater",
+      "time": "11:45 am",
+      "seats": [
+        193,
+        194
+      ],
+      "movieName": "Kill"
+    },
+    {
+      "id": "030c",
+      "date": "2024-08-05",
+      "theater": "AMC Theater",
+      "time": "8:00am",
+      "seats": [
+        130,
+        131,
+        132,
+        133,
+        134
+      ],
+      "movieName": "Dispicable Me"
+    },
+    {
+      "id": "aebd",
+      "date": "2024-08-05",
+      "theater": "AMC Theater",
+      "time": "8:00am",
+      "seats": [
+        51,
+        52,
+        53,
+        54
+      ],
+      "movieName": "Love Li"
+    },
+    {
+      "id": "22ea",
+      "date": "2024-08-04",
+      "theater": "Cinemark Theatres",
+      "time": "6:30pm",
+      "seats": [
+        185,
+        184
+      ],
+      "movieName": "Kaagada"
+    },
+    {
+      "id": "248d",
+      "date": "2024-08-05",
+      "theater": "AMC Theater",
+      "time": "8:00am",
+      "seats": [
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        15,
+        16
+      ],
+      "movieName": "Kill"
+    },
+    {
+      "id": "3abe",
+      "date": "2024-08-05",
+      "theater": "AMC Theater",
+      "time": "11:45 am",
+      "seats": [
+        193,
+        194
+      ],
+      "movieName": "Dispicable Me"
+    },
+    {
+      "id": "c048",
+      "date": "2024-08-05",
+      "theater": "AMC Theater",
+      "time": "8:00am",
+      "seats": [
+        15,
+        16,
+        17
+      ],
+      "movieName": "Inside Out 2"
+    },
+    {
+      "id": "4f9f",
+      "date": "2024-08-05",
+      "theater": "AMC Theater",
+      "time": "8:00am",
+      "seats": [
+        16,
+        17,
+        18
+      ],
+      "movieName": "Kalki  2898 AD"
+    },
+    {
+      "id": "6962",
+      "date": "2024-07-30",
+      "theater": "Cinemark Theatres",
+      "time": "8:00am",
+      "seats": [
+        198,
+        199,
+        200
+      ],
+      "movieName": "Kalki  2898 AD"
+    },
+    {
+      "id": "efaa",
+      "date": "2024-07-30",
+      "theater": "Cinemark Theatres",
+      "time": "3:00 pm",
+      "seats": [
+        195,
+        196
+      ],
+      "movieName": "Kill"
+    },
+    {
+      "id": "0346",
+      "date": "2024-07-31",
+      "theater": "partha theater",
+      "time": "8:00am",
+      "seats": [
+        199,
+        200,
+        198,
+        197,
+        196,
+        195,
+        194,
+        193
+      ],
+      "movieName": "Kill"
+    },
+    {
+      "id": "af9d",
+      "date": "2024-07-30",
+      "theater": "AMC Theater",
+      "time": "8:00am",
+      "seats": [
+        10,
+        11
+      ],
+      "movieName": "Kalki  2898 AD"
+    },
+    {
+      "id": "0c44",
+      "date": "2024-07-30",
+      "theater": "AMC Theater",
+      "time": "8:00am",
+      "seats": [
+        40,
+        41,
+        42,
+        43
+      ],
+      "movieName": "Dispicable Me"
+    },
+    {
+      "id": "0e6b",
+      "date": "2024-08-05",
+      "theater": "AMC Theater",
+      "time": "3:00 pm",
+      "seats": [
+        92,
+        93
+      ],
+      "movieName": "Kill"
+    },
+    {
+      "id": "265e",
+      "date": "2024-08-06",
+      "theater": "Regal Cinemas",
+      "time": "11:45 am",
+      "seats": [
+        166,
+        167
+      ],
+      "movieName": "Kalki  2898 AD"
+    },
+    {
+      "id": "f80c",
+      "date": "2024-08-11",
+      "theater": "AMC Theater",
+      "time": "8:00am",
+      "seats": [
+        4,
+        5
+      ],
+      "movieName": "Kalki  2898 AD"
+    },
+    {
+      "id": "53fd",
+      "date": "2024-08-11",
+      "theater": "AMC Theater",
+      "time": "8:00am",
+      "seats": [
+        133,
+        134,
+        135
+      ],
+      "movieName": "Kill"
+    },
+    {
+      "id": "3afa",
+      "date": "2024-08-11",
+      "theater": "AMC Theater",
+      "time": "8:00am",
+      "seats": [],
+      "movieName": "Dispicable Me"
+    },
+    {
+      "id": "c1bd",
+      "date": "2024-08-07",
+      "theater": "AMC Theater",
+      "time": "8:00am",
+      "seats": [],
+      "movieName": "Kalki  2898 AD"
+    },
+    {
+      "id": "570c",
+      "date": "2024-08-12",
+      "theater": "AMC Theater",
+      "time": "8:00am",
+      "seats": [],
+      "movieName": "Dispicable Me"
+    },
+    {
+      "id": "70a7",
+      "date": "2024-08-12",
+      "theater": "AMC Theater",
+      "time": "8:00am",
+      "seats": [
+        150,
+        151,
+        109,
+        110,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "movieName": "Kill"
+    },
+    {
+      "id": "9fff",
+      "date": "2024-08-23",
+      "theater": "AMC Theater",
+      "time": "8:00am",
+      "seats": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "movieName": "Dispicable Me"
+    },
+    {
+      "id": "f817",
+      "date": "2024-08-23",
+      "theater": "AMC Theater",
+      "time": "8:00am",
+      "seats": [
+        87,
+        71,
+        151,
+        152
+      ],
+      "movieName": "Kalki  2898 AD"
+    },
+    {
+      "id": "e0b2",
+      "date": "2024-08-27",
+      "theater": "AMC Theater",
+      "time": "11:45 am",
+      "seats": [
+        27,
+        30,
+        33,
+        39
+      ],
+      "movieName": "Love Li"
+    },
+    {
+      "id": "aaec",
+      "date": "2024-08-23",
+      "theater": "AMC Theater",
+      "time": "8:00am",
+      "seats": [
+        1,
+        2,
+        3
+      ],
+      "movieName": "Kill"
+    },
+    {
+      "id": "eb71",
+      "date": "2024-08-29",
+      "theater": "AMC Theater",
+      "time": "8:00am",
+      "seats": [],
+      "movieName": "Kalki  2898 AD"
+    },
+    {
+      "id": "20dc",
+      "date": "2024-08-23",
+      "theater": "AMC Theater",
+      "time": "8:00am",
+      "seats": [],
+      "movieName": "Chandu Champion"
+    },
+    {
+      "id": "b8ab",
+      "date": "2024-08-24",
+      "theater": "AMC Theater",
+      "time": "8:00am",
+      "seats": [
+        1,
+        2,
+        3,
+        200,
+        199,
+        179
+      ],
+      "movieName": "Jigar (Kannada)"
+    },
+    {
+      "id": "86de",
+      "date": "2024-08-30",
+      "theater": "AMC Theater",
+      "time": "8:00am",
+      "seats": [
+        128,
+        109,
+        90,
+        71,
+        52,
+        72,
+        92,
+        91,
+        110,
+        111,
+        112,
+        132,
+        131,
+        130,
+        129
+      ],
+      "movieName": "Munjya"
+    },
+    {
+      "id": "30c5",
+      "date": "2024-09-04",
+      "theater": "AMC Theater",
+      "time": "8:00am",
+      "seats": [
+        1,
+        2,
+        3
+      ],
+      "movieName": "Kill"
+    },
+    {
+      "id": "dacb",
+      "date": "2024-09-05",
+      "theater": "AMC Theater",
+      "time": "8:00am",
+      "seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "movieName": "Kill"
+    },
+    {
+      "id": "63cf",
+      "date": "2024-09-16",
+      "theater": "AMC Theater",
+      "time": "8:00am",
+      "seats": [
+        1,
+        2,
+        3
+      ],
+      "movieName": "Kalki  2898 AD"
+    },
+    {
+      "id": "fe2b",
+      "date": "2024-09-17",
+      "theater": "AMC Theater",
+      "time": "8:00am",
+      "seats": [],
+      "movieName": "Kill"
+    },
+    {
+      "id": "f633",
+      "date": "2024-09-17",
+      "theater": "AMC Theater",
+      "time": "8:00am",
+      "seats": [
+        1,
+        2
+      ],
+      "movieName": "Dispicable Me"
+    },
+    {
+      "id": "237d",
+      "date": "2024-09-29",
+      "theater": "AMC Theater",
+      "time": "8:00am",
+      "seats": [
+        7,
+        191,
+        192,
+        193,
+        194,
+        190,
+        189,
+        188,
+        187,
+        8,
+        9,
+        195,
+        196
+      ],
+      "movieName": "Dispicable Me"
+    },
+    {
+      "id": "ac62",
+      "date": "2024-09-23",
+      "theater": "AMC Theater",
+      "time": "8:00am",
+      "seats": [
+        169,
+        170
+      ],
+      "movieName": "Kill"
+    },
+    {
+      "id": "1873",
+      "date": "2024-09-28",
+      "theater": "AMC Theater",
+      "time": "8:00am",
+      "seats": [
+        189,
+        190,
+        26,
+        47
+      ],
+      "movieName": "Dispicable Me"
+    },
+    {
+      "id": "77c7",
+      "date": "2024-09-29",
+      "theater": "AMC Theater",
+      "time": "8:00am",
+      "seats": [
+        189,
+        190,
+        131,
+        132,
+        133,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        191,
+        192,
+        194,
+        195,
+        175,
+        176
+      ],
+      "movieName": "Kill"
+    },
+    {
+      "id": "7f83",
+      "date": "2024-09-27",
+      "theater": "AMC Theater",
+      "time": "11:45 am",
+      "seats": [
+        70,
+        50,
+        51
+      ],
+      "movieName": "Kill"
+    },
+    {
+      "id": "5956",
+      "date": "2024-09-30",
+      "theater": "AMC Theater",
+      "time": "8:00am",
+      "seats": [],
+      "movieName": "Dispicable Me"
+    },
+    {
+      "id": "9bc6",
+      "date": "2024-09-24",
+      "theater": "AMC Theater",
+      "time": "8:00am",
+      "seats": [
+        1,
+        2
+      ],
+      "movieName": "Dispicable Me"
+    },
+    {
+      "id": "e8c0",
+      "date": "2024-09-24",
+      "theater": "AMC Theater",
+      "time": "8:00am",
+      "seats": [
+        1,
+        2,
+        3
+      ],
+      "movieName": "Kalki  2898 AD"
+    },
+    {
+      "id": "1741",
+      "date": "2024-09-30",
+      "theater": "AMC Theater",
+      "time": "8:00am",
+      "seats": [
+        1,
+        2,
+        3
+      ],
+      "movieName": "Inside Out 2"
+    },
+    {
+      "id": "86e8",
+      "date": "2024-09-30",
+      "theater": "AMC Theater",
+      "time": "8:00am",
+      "seats": [
+        63,
+        64
+      ],
+      "movieName": "Kalki  2898 AD"
+    },
+    {
+      "id": "0678",
+      "date": "2024-09-24",
+      "theater": "AMC Theater",
+      "time": "8:00 am",
+      "seats": [
+        1
+      ],
+      "movieName": "Kill"
+    },
+    {
+      "id": "e16f",
+      "date": "2024-09-24",
+      "theater": "AMC Theater",
+      "time": "8:00 am",
+      "seats": [
+        1,
+        2,
+        196,
+        197,
+        198
+      ],
+      "movieName": "Kalki  2898 AD"
+    },
+    {
+      "id": "2374",
+      "date": "2024-09-30",
+      "theater": "AMC Theater",
+      "time": "9:45 pm",
+      "seats": [],
+      "movieName": "Kalki  2898 AD"
+    },
+    {
+      "id": "2fcb",
+      "date": "2024-09-30",
+      "theater": "AMC Theater",
+      "time": "8:00 am",
+      "seats": [],
+      "movieName": "Kalki  2898 AD"
+    },
+    {
+      "id": "5132",
+      "date": "2024-09-25",
+      "theater": "AMC Theater",
+      "time": "8:00am",
+      "seats": [
+        1,
+        2,
+        193,
+        194
+      ],
+      "movieName": "Dispicable Me"
+    },
+    {
+      "id": "996d",
+      "date": "2024-10-03",
+      "theater": "Regal Cinemas",
+      "time": "11:45 am",
+      "seats": [
+        76,
+        77,
+        78
+      ],
+      "movieName": "Dispicable Me"
+    },
+    {
+      "id": "3ccb",
+      "date": "2024-10-21",
+      "theater": "AMC Theater",
+      "time": "8:00am",
+      "seats": [
+        1
+      ],
+      "movieName": "Dispicable Me"
+    },
+    {
+      "id": "0f22",
+      "date": "2024-11-06",
+      "theater": "AMC Theater",
+      "time": "6:30 pm",
+      "seats": [],
+      "movieName": "Kalki  2898 AD"
+    },
+    {
+      "id": "fefe",
+      "date": "2024-11-09",
+      "theater": "AMC Theater",
+      "time": "8:00 am",
+      "seats": [],
+      "movieName": "Kaagada"
+    }
+  ]
+}

@@ -1,0 +1,234 @@
+
+
+
+
+*{
+    padding: 0px;
+    margin: 0px;
+  }
+
+  
+  .maindis{
+    width: 100%;
+    height: 500px;
+ background-color: black;
+    display: flex;
+    justify-content: center;
+    padding: 0px;
+    margin: 0px;
+    /* justify-content: space-between; */
+}
+.maindisleft{
+    width: 30%;
+    height: 500px;
+    background-color: black;
+    display: flex;
+    justify-content:end;
+    align-items: center;
+
+}
+.maindisright{
+    width: 68%;
+    height: 500px;
+    background-color:black;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    
+}
+.maindisimg{
+    width: 70%;
+    height: 400px; 
+    border-radius: 10px;
+}
+.maindisrightbox{
+  width: 50%;
+  height: 400px; 
+  
+}
+.rightheading{
+    height: 100px;
+    width: auto;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    color:white;
+}
+.rightrating{
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    color:white;
+    background-color: rgba(65, 64, 63, 0.781);
+    
+}
+.rightlangauge{
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    color:white;
+    background-color:#6d6b6b;
+    border-top: 10px solid black;
+    
+     
+}
+.righttype{
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    color:white;
+    background-color:#6d6b6b;
+    border-bottom: 5px black;
+    border-top: 10px solid black;
+   
+}
+.rightbookbutton{
+    height: 90px;
+    
+    display: flex;
+    align-items: end;
+    justify-content: start;
+}
+.bookbutton{
+    height: 50px;
+    width: 40%;
+    border-radius: 20px;
+    background-color: red;
+    color: white;
+    border: none;
+}
+.bookbutton:active{
+    box-shadow: 3px 3px 3px rgb(101, 93, 93);
+}
+
+
+
+
+/* #search */
+
+
+.SEarchtitle{
+    width: 100%;
+    display: flex;
+    justify-content: start;
+}
+.searchnavbar{
+width: 100%;
+}
+.Searchinput___box{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.SEarchtitle h1{
+    color:black;
+    /* font-size: 50px; */
+  
+  }
+  .SEarchtitle span{
+    /* color: rgb(237,23,84);
+    background-color: blue; */
+    background-color: red;
+    color: white;
+  padding-left:5px ;
+  padding-right:5px ;
+  }
+  .inputSearch__box{
+    width: 60%;
+  }
+  .SearchInputContainer{
+    width: 60%;
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 1%;
+    /* text-decoration:  ; */
+  }
+  .webName{
+    text-decoration: none;
+  }
+
+
+  @media screen and (min-width: 0px) and (max-width: 427px){
+    .maindis {
+        flex-direction: column;
+        height: auto;
+        width: 100%;
+        padding: 0;
+        margin: 0;
+    }
+    .maindisimg{
+        width: 100%;
+        height: 90%;
+    }
+    .maindisleft{
+     width: 100%;
+    }
+    .maindisright{
+        width:100%;
+    }
+    .maindisrightbox{
+        width: 100%;
+        height: 400px;
+        font-size:20px ;
+        
+      }
+      .maindisrightbox h2,h3,h4,h5,p{
+        
+        font-size:15px ;
+        
+      }
+      .rightbookbutton button{
+        font-size: 15px;
+      }
+      .recomendedmovies {
+        width: 100%;
+        /* height: 81px; */
+        height: auto;
+        display: flex;
+        justify-content: space-between;
+        align-items: end;
+    }
+    .Searchinput___box {
+      width: 100%;
+      height: 100px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+  }
+  }
+
+  @media screen and (min-width:428px) and (max-width: 768px){
+    .maindisleft{
+        width: 50%;
+       }
+       .maindisright{
+           width:50%;
+       }
+       .maindisrightbox {
+        width: 100%;
+        /* height: 400px; */
+    }
+    .maindisimg{
+        width: 80%;
+        height: 90%;
+        /* height: 400px;  */
+        border-radius: 10px;
+    }
+    .maindisrightbox h5 {
+     font-size: 20px;
+     margin: 0%;
+     padding: 0%;
+  } .maindisrightbox p {
+    font-size: 15px;
+    margin: 0%;
+     padding: 0%;
+ }
+ .rightlangauge{
+  height:auto;
+  padding-top: 10px;
+  padding-bottom: 10px;
+ }
+  }
